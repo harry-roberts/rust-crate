@@ -23,6 +23,11 @@ Below is an image of the final 3D model, where each of the coloured sections are
 
 The side mesh pieces are not modelled in the same way - they are modelled as a flat plate and then turned into a mesh using a 3D printing trick. It is printed as infill to give a clean mesh  and then slots into the grooves in each side area. Modelling a thin mesh would be tricky to slice and print nicely, but using the slicer itself to create the mesh guarantees it will print well.
 
+All the printed parts are shown below
+
+![](images/crate_parts.png)
+
+
 ## Final Product
 
 The printed model was painted and integrated with the electronics. The screen displays the current time in place of the in-game countdown.
