@@ -17,7 +17,7 @@ Below are some screenshots that were used as a reference when 3D modelling the c
 
 It is a fairly complex model to print so it needed to be split into several parts. 
 
-Below is an image of the final 3D model, where each of the coloured sections are seperate individual parts, which can be printed without any support material. The stack of boxes in the middle are hollow and are used to house the electronics.
+Below is an image of the final 3D model, where each of the coloured sections are seperate individual parts, which can be printed without any support material. The stack of boxes in the middle are hollow and are used to house the electronics (Arduino + RTC module). A small LCD screen sits inside the laptop.
 
 ![](images/crate_model_assembly.png)
 
@@ -25,7 +25,7 @@ The side mesh pieces are not modelled in the same way - they are modelled as a f
 
 ## Final Product
 
-The printed model was painted and integrated with the electronics.
+The printed model was painted and integrated with the electronics. The screen displays the current time in place of the in-game countdown.
 
 ![](images/crate_product1.png)
 ![](images/crate_product2.png)
